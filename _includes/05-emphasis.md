@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**ZOTMAN** takes a breathe at the corner of the *cliff*.
+Here is a *hint*, it is not a **snowy mountain**.
